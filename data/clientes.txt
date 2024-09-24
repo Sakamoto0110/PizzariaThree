@@ -1,0 +1,25 @@
+CPF: 34832717839
+Nome: Rafael Sakamoto
+Telefone: 1334738637
+Endereco: rua bahia, 513
+
+CPF: 12345678987
+Nome: Flavia
+Telefone: 1387654321
+Endereco: enderecoTeste
+
+CPF: 99999999999
+Nome: nome teste
+Telefone: 123414
+Endereco: rend teste
+
+CPF: 12454151
+Nome: rafa
+Telefone: 12341
+Endereco: rgae3
+
+CPF: 2355626
+Nome: ragmntrihgnmas
+Telefone: 35252153092
+Endereco: 23521frag
+

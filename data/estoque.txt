@@ -1,0 +1,9 @@
+Ingrediente1: 7
+Ingrediente2: 6
+Ingrediente3: 7
+Ingrediente4: 10
+Ingrediente5: 10
+Coca: 13
+Fanta: 45
+Cerveja: 2
+

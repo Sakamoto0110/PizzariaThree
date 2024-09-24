@@ -1,0 +1,45 @@
+Codigo: 1
+Sabor: Peperonni
+Preco: 45
+Ingrediente1: 3
+Ingrediente2: 4
+Ingrediente3: 3
+Ingrediente4: 0
+Ingrediente5: 0
+
+Codigo: 2
+Sabor: Mussarela
+Preco: 25
+Ingrediente1: 6
+Ingrediente2: 3
+Ingrediente3: 1
+Ingrediente4: 0
+Ingrediente5: 0
+
+Codigo: 3
+Sabor: Margueritta
+Preco: 23
+Ingrediente1: 4
+Ingrediente2: 2
+Ingrediente3: 5
+Ingrediente4: 3
+Ingrediente5: 0
+
+Codigo: 4
+Sabor: Napolitana
+Preco: 35
+Ingrediente1: 1
+Ingrediente2: 3
+Ingrediente3: 4
+Ingrediente4: 2
+Ingrediente5: 0
+
+Codigo: 5
+Sabor: Brigadeiro
+Preco: 50
+Ingrediente1: 0
+Ingrediente2: 0
+Ingrediente3: 0
+Ingrediente4: 2
+Ingrediente5: 6
+
